@@ -211,12 +211,12 @@ header div#social-menu ul li#social-menu-vk:hover a {
 
 header div#social-menu ul li#social-menu-rutube a {
 	width: 50px;
-	background: url('social_icons_rutube.png') 0px 0px no-repeat;
+	background: url('https://libryansk.ru/files/www/social_icons_rutube.png') 0px 0px no-repeat;
 }
 
 header div#social-menu ul li#social-menu-ok a {
 	width: 50px;
-	background: url('social_icons_ok.png') 0px 0px no-repeat;
+	background: url('https://libryansk.ru/files/www/social_icons_ok.png') 0px 0px no-repeat;
 }
 
 
@@ -237,7 +237,7 @@ header div#social-menu ul li#social-menu-youtube {
 
 header div#social-menu ul li#social-menu-youtube a {
 	width: 100px;
-	background: url('social_icons_youtube.png') 0px 0px no-repeat;
+	background: url('https://libryansk.ru/files/www/social_icons_youtube.png') 0px 0px no-repeat;
 }
 
 header div#social-menu ul li#social-menu-youtube:hover a {
