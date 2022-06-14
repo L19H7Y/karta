@@ -1528,7 +1528,7 @@ font-size: 1.5em;
 margin-bottom: 25px;
 }
 
-/*РїРѕРґСЃРІРµС‡РёРІР°РЅРёРµ РЅРѕРІРѕСЃС‚РµР№*/
+/*Ð¿Ð¾Ð´ÑÐ²ÐµÑ‡Ð¸Ð²Ð°Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾ÑÑ‚ÐµÐ¹*/
 
 #news-item-27540 a {
 color: red !important;
@@ -1544,15 +1544,3 @@ font-weight: 600;
 color: black !important;
 font-weight: 600;
 }
-
-/*
-#page-text .news-digest h3:nth-of-type(15) a {
-color: red;
-font-weight: 600;
-}*/
-
-/*
-#page-text .news-digest h3:nth-of-type(15) {
-color: red;
-font-weight: 400;
-}*/
